@@ -1,5 +1,4 @@
 @charset "UTF-8";
-
 /* 440px */
 
 .sub_wrap {
@@ -107,19 +106,6 @@
     margin-right: 0;
 }
 
-
-/* best_hide */
-.sub_subject_cont .img_box .best_hide {
-    top: 10px;
-    left: -100%;
-    bottom: 10px;
-    right: 10px;
-    width: 170px;
-    height: 170px;
-    padding: 5px;
-    box-sizing: border-box;
-}
-
 /* best_hide */
 .sub_subject_cont .img_box .best_hide {
     top: 10px;
@@ -165,8 +151,8 @@
     }
 
     .sub_subject_cont .img_box .btn_more {
-        font-size: 14px;
-        padding: 5px 10px;
+        margin-bottom: 15px;
+        padding: 8px 20px;
         box-sizing: border-box;
     }
 

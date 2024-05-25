@@ -204,9 +204,10 @@ section .slick-dots li button:before {
 }
 
 .totalNav nav {
-    padding-top: 145px;
-    padding-bottom: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
     height: 100%;
+    box-sizing: border-box;
 }
 
 .totalNav nav > .megaMenu {
